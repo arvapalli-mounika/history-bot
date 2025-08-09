@@ -1,0 +1,8 @@
+ollama
+langchain-ollama
+pypdf
+gradio
+langchain
+langchain_community
+langchain_chroma
+langchain_text_splitters
